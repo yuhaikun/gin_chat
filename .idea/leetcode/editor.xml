@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/151_反转字符串中的单词_ReverseWordsInAString.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/151_反转字符串中的单词_ReverseWordsInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn151" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/151_反转字符串中的单词_ReverseWordsInAString.go" />
+              <option name="titleSlug" value="reverse-words-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/28_找出字符串中第一个匹配项的下标_FindTheIndexOfTheFirstOccurrenceInAString.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/28_找出字符串中第一个匹配项的下标_FindTheIndexOfTheFirstOccurrenceInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn28" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/28_找出字符串中第一个匹配项的下标_FindTheIndexOfTheFirstOccurrenceInAString.go" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/541_反转字符串 II_ReverseStringIi.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/541_反转字符串 II_ReverseStringIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn541" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/541_反转字符串 II_ReverseStringIi.go" />
+              <option name="titleSlug" value="reverse-string-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/剑指 Offer 58 - II_左旋转字符串_ZuoXuanZhuanZiFuChuanLcof.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/剑指 Offer 58 - II_左旋转字符串_ZuoXuanZhuanZiFuChuanLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 58 - II" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/剑指 Offer 58 - II_左旋转字符串_ZuoXuanZhuanZiFuChuanLcof.go" />
+              <option name="titleSlug" value="zuo-xuan-zhuan-zi-fu-chuan-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/剑指 Offer 58 - I_翻转单词顺序_FanZhuanDanCiShunXuLcof.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/剑指 Offer 58 - I_翻转单词顺序_FanZhuanDanCiShunXuLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 58 - I" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/剑指 Offer 58 - I_翻转单词顺序_FanZhuanDanCiShunXuLcof.go" />
+              <option name="titleSlug" value="fan-zhuan-dan-ci-shun-xu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

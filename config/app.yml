@@ -1,0 +1,18 @@
+mysql:
+  dns: root:8871527yhk@tcp(127.0.0.1:3306)/ginchat?charset=utf8mb4&parseTime=True&loc=Local
+redis:
+  addr: "127.0.0.1:6379"
+  password: ""
+  DB: 0
+  poolSize: 30
+  minIdleConn: 30
+rabbitmq:
+  dns: "amqp://guest:guest@localhost:5672"
+timeout:
+  DelayHeartbeat: 3 #延迟心跳时间 单位秒
+  HeartbeatHz: 30 #每隔多少秒心跳时间
+  HeartbeatMaxTime: 3000 # 最大心跳时间，超过此时间就下线
+  RedisOnlineTime: 4 #缓存的在线用户时长 单位H
+port:
+  server: ":8080"
+  udp: 3001
